@@ -511,10 +511,10 @@
   Hint: 'Si autocompletar no sirve en tu caso, sólo introduce mi_variable en la
   línea de comandos.'
 
-- Class: mult_question
-  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
-  Coursera que has completado esta lección?"
-  CorrectAnswer: NULL
-  AnswerChoices: Si;No
-  AnswerTests: coursera_on_demand()
-  Hint: ""
+#- Class: mult_question
+#  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
+#  Coursera que has completado esta lección?"
+#  CorrectAnswer: NULL
+#  AnswerChoices: Si;No
+#  AnswerTests: coursera_on_demand()
+#  Hint: ""

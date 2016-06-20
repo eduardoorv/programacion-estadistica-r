@@ -213,10 +213,10 @@
   Hint: 'Ingresa par(par_orig) en la línea de comandos para regresar a los
   valores originales.'
 
-- Class: mult_question
-  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
-  Coursera que has completado esta lección?"
-  CorrectAnswer: NULL
-  AnswerChoices: Si;No
-  AnswerTests: coursera_on_demand()
-  Hint: ""
+#- Class: mult_question
+#  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
+#  Coursera que has completado esta lección?"
+#  CorrectAnswer: NULL
+#  AnswerChoices: Si;No
+#  AnswerTests: coursera_on_demand()
+#  Hint: ""

@@ -224,10 +224,10 @@
 - Class: text
   Output: 'Actualmente, ggplot2 no puede ser usado para crear gráficas 3D.'
 
-- Class: mult_question
-  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
-  Coursera que has completado esta lección?"
-  CorrectAnswer: NULL
-  AnswerChoices: Si;No
-  AnswerTests: coursera_on_demand()
-  Hint: ""
+#- Class: mult_question
+#  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
+#  Coursera que has completado esta lección?"
+#  CorrectAnswer: NULL
+#  AnswerChoices: Si;No
+#  AnswerTests: coursera_on_demand()
+#  Hint: ""

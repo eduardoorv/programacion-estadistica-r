@@ -370,10 +370,10 @@
   CorrectAnswer: pie(c(50, 50, 50), label=levels(iris$Species))
   AnswerTests: omnitest(correctExpr='pie(c(50, 50, 50), label=levels(iris$Species))')
 
-- Class: mult_question
-  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
-  Coursera que has completado esta lección?"
-  CorrectAnswer: NULL
-  AnswerChoices: Si;No
-  AnswerTests: coursera_on_demand()
-  Hint: ""
+#- Class: mult_question
+#  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
+#  Coursera que has completado esta lección?"
+#  CorrectAnswer: NULL
+#  AnswerChoices: Si;No
+#  AnswerTests: coursera_on_demand()
+#  Hint: ""

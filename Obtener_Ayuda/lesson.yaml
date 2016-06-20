@@ -97,10 +97,10 @@
   puedes hacer uso de las funciones help() o ? cuando lo desees, incluso si
   estas en medio de una lección."
 
-- Class: mult_question
-  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
-  Coursera que has completado esta lección?"
-  CorrectAnswer: NULL
-  AnswerChoices: Si;No
-  AnswerTests: coursera_on_demand()
-  Hint: ""
+#- Class: mult_question
+#  Output: "Has concluido la lección. ¿Te gustaría que se le notificará a
+#  Coursera que has completado esta lección?"
+#  CorrectAnswer: NULL
+#  AnswerChoices: Si;No
+#  AnswerTests: coursera_on_demand()
+#  Hint: ""

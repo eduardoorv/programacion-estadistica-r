@@ -1,11 +1,9 @@
 # programacion-estadistica-r
 
-Lecciones interactivas de programación en R para uso con el paquete [swirl] (http://swirlstats.com). Forman parte del curso "Introducción a la programación estadística con R" de Coursera (https://www.coursera.org/learn/programacion-estadistica-r).
+Lecciones interactivas de programación en R para uso con el paquete [swirl] (http://swirlstats.com). Forman parte del curso "Introducción a la programación estadística con R". 
 
 
 ##Acerca de las lecciones como curso
-
-Aunque las lecciones forman parte de un curso de Coursera como las tareas de programación, están diseñadas para ser autosuficientes, es decir no es necesario estar inscrito en el curso de Coursera para aprender.
 
 El objetivo principal es brindar un curso en español interactivo sobre los fundamentos de la programación en R, con el fin de manipular datos, generar análisis y representaciones gráficas.
 
@@ -36,7 +34,7 @@ select_language()
 
 ```
 library(swirl)
-install_course_github("ifunam", "programacion-estadistica-r")
+install_course_github("eduardoorv", "programacion-estadistica-r")
 ```
 
 
